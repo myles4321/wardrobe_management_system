@@ -1,0 +1,9 @@
+*
+!private/
+!public/
+!.gitignore
+/vendor
+/node_modules
+.env
+/public/storage
+/storage/*.log
